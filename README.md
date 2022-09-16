@@ -17,6 +17,4 @@ Here are some ideas to get you started:
 
 I'm currently learning System Programming and interested in Embedded Linux World.
 
-I'm cutrrently working on ![frr](https://github.com/FRRouting/frr).
-
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=alirezaarzehgar&show_icons=true&theme=radical)

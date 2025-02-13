@@ -9,3 +9,5 @@ My activities tracked on [issues of this repository](https://github.com/alirezaa
 I love UNIX world, system programming, cloud computing and microservice architecture. Gaining deep knowledge is a great pleasure for me.
 
 Interested in open source contribution. Fight with Go, love C and sometimes play with python.
+
+My [Resume](https://github.com/alirezaarzehgar/resume/releases).

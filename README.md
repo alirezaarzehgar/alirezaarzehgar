@@ -9,7 +9,7 @@ Yes, my contributions may be trivial in Go projects,
 but they are just a gateway to becoming a great open-source contributor.
 
 Naming yourself an Open Source Contributor may feel shameful if you only have some trivial changes.
-[Check my commits on Golang.]([url](https://github.com/golang/go/commits/master/?author=alirezaarzehgar))
+([Check my commits on Golang.](https://github.com/golang/go/commits/master/?author=alirezaarzehgar))
 
 My activities tracked on [issues of this repository](https://github.com/alirezaarzehgar/alirezaarzehgar/issues/). I define my personal tasks on them. Usually it contain list of my books.
 
